@@ -8,9 +8,9 @@ export const DATA = {
   location: "Bengaluru, India",
   locationLink: "https://www.google.com/maps/place/bengaluru",
   description:
-    "Data Engineer with a background in app development, focused on building scalable, automated data solutions.",
+    "Mobile Developer (React Native) with full-stack & data engineering experience, building scalable apps powered by efficient backends and data pipelines.",
   summary:
-    "I’m a results-driven Data Engineer with over a year of experience in automating data workflows, building ETL pipelines with dbt, and generating reports using Python and PostgreSQL. With a background in mobile app development, I bring a full-stack mindset to data solutions, focusing on performance, scalability, and real-world impact.",
+    "Mobile Application Developer with experience in data engineering and frontend development, skilled in building high-performance cross-platform apps (React Native, Flutter). Leverages data pipeline expertise (Python, PySpark, ETL) to optimize app analytics and backend integrations. Proficient in full-stack development (React.js, Node.js) to deliver seamless, data-driven mobile experiences. Combines app development with scalable cloud solutions (AWS, Firebase) for end-to-end product delivery.",
   avatarUrl: "/me.png",
   skills: [
     "Python",
